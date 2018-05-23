@@ -1,0 +1,17 @@
+# googlefriday18
+
+
+def add(number1+number2):
+	return answer
+
+
+
+reply = raw_input
+game = raw_input
+print("Hello, how are you today?")
+if(reply = "ok")
+	print("well thats good, wanna play a game?" + reply)
+if(reply = "bad")
+	print("well have you tried to feel better")
+
+
